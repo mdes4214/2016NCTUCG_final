@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{bced5e18-e3c2-491c-a4f6-aa6df85dfe90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders\ltc">
+      <UniqueIdentifier>{16d9c246-9cd9-4826-8137-bb83e42dd74c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\shader_lib\shader.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\ltc\ltc.fs">
+      <Filter>shaders\ltc</Filter>
+    </None>
+    <None Include="shaders\ltc\ltc.vs">
+      <Filter>shaders\ltc</Filter>
+    </None>
+    <None Include="shaders\ltc\ltc_blit.fs">
+      <Filter>shaders\ltc</Filter>
+    </None>
+    <None Include="shaders\ltc\ltc_blit.vs">
+      <Filter>shaders\ltc</Filter>
+    </None>
+  </ItemGroup>
+</Project>

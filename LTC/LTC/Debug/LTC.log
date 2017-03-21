@@ -1,0 +1,20 @@
+﻿  main.cpp
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(28): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(28): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(29): warning C4838: 從 'double' 到 'float' 的轉換必須是縮小轉換
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(29): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(39): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(41): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(49): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(208): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(250): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(281): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(282): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(312): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(313): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(314): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(315): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(323): warning C4305: '-=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\code\nctu\2016cg\finalproject\ltc\ltc\main.cpp(324): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  LTC.vcxproj -> D:\Code\NCTU\2016CG\FinalProject\LTC\Debug\LTC.exe
+  LTC.vcxproj -> D:\Code\NCTU\2016CG\FinalProject\LTC\Debug\LTC.pdb (Partial PDB)
